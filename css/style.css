@@ -224,15 +224,18 @@ h4 {
 }
 
 .heuristic {
-    display: block;
-    float: right;
-    margin-right: -100px;
+    margin-right: -435px;
+    margin-left: 30px;
+    margin-top: 15px;
 }
 
 .title {
-    font-size: 30px;
-    float: left;
     color: white;
     font-family: Helvetica Neue;
-    margin-top: 20px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.section {
+    margin-bottom: 30px;
 }
