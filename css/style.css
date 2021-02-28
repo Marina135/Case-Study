@@ -236,6 +236,32 @@ h4 {
     text-decoration: none;
 }
 
+.title2 {
+    color: white;
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    text-decoration: none;
+}
+
 .section {
     margin-bottom: 30px;
+}
+
+.iteration {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.a-b {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.a-bpic {
+    margin: 15px;
+}
+
+.a-btext {
+    margin-left: 15px;
+    margin-top: 25px;
 }
